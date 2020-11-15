@@ -1,11 +1,11 @@
 
-# **Turtle Programming Project**
+# Turtle Programming Project
 
-## **Commands**
+## Commands
 
-## **Features**
+## Features
 
-## **Ideas**
+## Ideas
 
 - [ ] Like your creation? Save it!
 - [ ] I love making things that seem hard seem more accessible
